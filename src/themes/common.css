@@ -83,5 +83,5 @@
 }
 
 #liquify-search {
-  color: black !Important;
+  z-index: 1000000;
 }
