@@ -78,7 +78,10 @@
 [data-diffy-attribute] [class*="TrailingContent"] {
   height: 12px;
 }
-
 .cm-editor .cm-panels.cm-panels-bottom {
   font-size: 16px;
+}
+
+#liquify-search {
+  color: black !Important;
 }
